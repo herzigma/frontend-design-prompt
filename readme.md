@@ -20,4 +20,4 @@ This prompt defines an **Elite Frontend Design Architect** role with:
 
 ## Attribution
 
-This prompt is inspired by Anthropic’s **[Frontend Aesthetics: A Prompting Guide](https://github.com/anthropics/claude-cookbooks/blob/main/coding%2Fprompting_for_frontend_aesthetics.ipynb)** in the [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks). Credit to Anthropic for the original idea of guiding AI toward distinctive frontends and away from generic aesthetics.
+This prompt is inspired by and cribs heavily fron Anthropic’s **[Frontend Aesthetics: A Prompting Guide](https://github.com/anthropics/claude-cookbooks/blob/main/coding%2Fprompting_for_frontend_aesthetics.ipynb)** in the [Claude Cookbooks](https://github.com/anthropics/claude-cookbooks). Credit to Anthropic for the original idea of guiding AI toward distinctive frontends and away from generic aesthetics.
