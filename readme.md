@@ -13,7 +13,7 @@ This prompt defines an **Elite Frontend Design Architect** role with:
 
 ## How to use
 
-1. Open [PROMPT.md](PROMPT.md) in this repo.
+1. Open [PROMPT.md](https://github.com/herzigma/frontend-design-prompt/blob/main/prompt.md) in this repo.
 2. Copy the full contents.
 3. Paste them into your AI tool’s **system prompt** (e.g. Cursor rules, Claude system prompt, ChatGPT custom instructions) when building frontends.
 4. Use your normal prompts for the actual page or component; the system prompt sets the design behavior.
